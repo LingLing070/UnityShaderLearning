@@ -1,4 +1,4 @@
-Shader "Custom/Chapter12-GaussianBlur"
+Shader "UnityShaderLearning/Chapter 12/Gaussian Blur"
 {
     Properties
     {
