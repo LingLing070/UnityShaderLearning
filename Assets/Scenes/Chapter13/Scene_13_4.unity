@@ -807,7 +807,7 @@ MonoBehaviour:
   backgroundColor: {r: 1, g: 1, b: 1, a: 1}
   sampleDistance: 1
   sensitivityDepth: 1
-  sensitivityNormals: 1
+  sensitivityNormals: 2
 --- !u!1 &2048088258
 GameObject:
   m_ObjectHideFlags: 0
